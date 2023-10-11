@@ -1,0 +1,8 @@
+Last step i ended this current exercise:
+st67053
+2023
+
+--------------------
+Use a dotnet command to create an xUnit test project in the tests folder named Domain.Tests
+11.10.2023 11:59
+--------------------
